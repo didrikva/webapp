@@ -4,3 +4,5 @@ Project starter repo for the course Webbapplikationer för mobila enheter given 
 
 
 Kolla projektet via pages:  https://didrikva.github.io/webapp/
+
+Projektet använder ett API från trafikverket och är därför inte aktivt då kursen är avslutad.
